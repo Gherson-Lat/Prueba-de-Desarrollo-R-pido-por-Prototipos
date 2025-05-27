@@ -8,12 +8,12 @@ import { getStorage } from 'firebase/storage';     // Para el módulo de Storage
 
 // ***  VALORES  DE FIREBASE ***
 const firebaseConfig = {
-  apiKey: "AIzaSyAGrHp1i4N--u6oEcYHGf9vyNar_skjV_o",
-  authDomain: "outsystem-ejer.firebaseapp.com", // Se deriva del projectId
-  projectId: "outsystem-ejer",
-  storageBucket: "outsystem-ejer.appspot.com", // Se deriva del projectI
-  messagingSenderId: "602290359862", // Generalmente es el Número del proyecto
-  appId: "1:602290359862:web:GENERAR_EN_CONSOLA" // Este valor específico se obtiene al añadir la app web
+  apiKey: "",
+  authDomain: "", // Se deriva del projectId
+  projectId: "",
+  storageBucket: "", // Se deriva del projectI
+  messagingSenderId: "", // Generalmente es el Número del proyecto
+  appId: "" // Este valor específico se obtiene al añadir la app web
 };
 
 
